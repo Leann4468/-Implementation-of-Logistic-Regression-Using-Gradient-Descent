@@ -13,12 +13,13 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Load the dataset.
 3. Define X and Y array.
 4. Define a function for costFunction,cost and gradient.
-5. Define a function to plot the decision boundary. 6.Define a function to predict the 
+5. Define a function to plot the decision boundary.
+6. Define a function to predict the 
    Regression value.
 
 ## Program:
 
-### Program to implement the the Logistic Regression Using Gradient Descent.
+### Program to implement the Logistic Regression Using Gradient Descent.
 
 ```
 import pandas as pd
